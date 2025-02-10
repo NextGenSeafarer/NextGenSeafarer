@@ -1,5 +1,5 @@
 My name is Pochinskii Ilia, 
-I'm java developer (very beggining)
+I'm focusing on Full stack developing (Java + Spring + Hibernate / React + Tailwind)
 
 📫 How to reach me: pocha000@mail.ru
 
